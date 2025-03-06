@@ -211,7 +211,7 @@ header #menu-btn:hover {
   width: 40rem;
   height: 40rem;
   object-fit: cover;
-  border-radius: 20% 50% 30% 80% / 10% 50% 90% 70%;
+  /* border-radius: 20% 50% 30% 80% / 10% 50% 90% 70%; */
 }
 
 .hero__content {
